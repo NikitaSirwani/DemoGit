@@ -5,7 +5,7 @@ const mainscreen = (props) => {
         <div>
             <p>TEst screen</p>
             <p>this is a button</p>
-            <button>Click</button>
+            <button>aefwegwegweg</button>
         </div>
     )
 }
